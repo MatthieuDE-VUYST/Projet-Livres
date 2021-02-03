@@ -4,10 +4,8 @@ npm install
 npm run build
 npm run dev
 
-
-
 Fonctionalités implementer:
-- Détails
-- Ajout Livre
-- Modification Livre
-- Suppression Livre 
+- Détails d'un livre
+- Ajout de livre
+- Modification de livre
+- Suppression de livre 
