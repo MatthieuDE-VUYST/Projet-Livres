@@ -28,6 +28,7 @@ async function ajouterLivre() {
             path: "images/"+imgName
         }
     }).then(function (response) {
+        document.getElementById("home").click();
         console.log(response);
     }).catch(function (err) {
         console.log(err);
